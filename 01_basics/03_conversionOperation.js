@@ -29,3 +29,26 @@ let someNumber= 33
 let stringNumber=String(someNumber)
 console.log(typeof stringNumber)
 console.log(stringNumber)
+
+
+//***************Operations*********************** 
+
+let val=3
+let negVal=-val
+console.log(negVal)
+
+let str1 ="Hello"
+let str2 =" Swati"
+
+let str3= str1+str2
+console.log(str3)
+
+console.log("1" + 2)
+console.log(1 + "2")
+console.log("1" + 2 + 2)
+console.log(1+2+ "2")
+
+//console.log(+true)  //1
+
+//prefix increment/postfix increment
+
